@@ -14,7 +14,7 @@ Read your sheet music, turn pages with a pedal and write on it with a pen.</p>
 
 Volti is a sheet music reader for musicians, made for the **Surface with pen** on Windows. It also works on any Windows device with mouse and keyboard. An Android version is in the works.
 
-Volti needs **no account**, collects **no data** and works **offline**. The only time Volti goes online is to look for updates.
+Volti is available in **English and German** (⚙ → *Appearance* → *Sprache · Language*). Volti needs **no account**, collects **no data** and works **offline**. The only time Volti goes online is to look for updates.
 
 ## Installation (Windows 10 and 11)
 

@@ -14,7 +14,7 @@ Noten lesen, mit dem Pedal umblättern und mit dem Stift hineinschreiben.</p>
 
 Volti ist ein Notenleser für Musikerinnen und Musiker, gemacht für das **Surface mit Stift** unter Windows. Er funktioniert aber auf jedem Windows-Gerät mit Maus und Tastatur. Eine Android-Version ist in Arbeit.
 
-Volti braucht **kein Konto**, sammelt **keine Daten** und funktioniert **ohne Internet**. Volti verbindet sich nur mit dem Internet, um nach Updates zu suchen.
+Volti gibt es auf **Deutsch und Englisch** (⚙ → *Darstellung* → *Sprache · Language*). Volti braucht **kein Konto**, sammelt **keine Daten** und funktioniert **ohne Internet**. Volti verbindet sich nur mit dem Internet, um nach Updates zu suchen.
 
 ## Installieren (Windows 10 und 11)
 
