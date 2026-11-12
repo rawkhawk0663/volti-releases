@@ -86,7 +86,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 | Tool settings | Every tool has its own window that you can move anywhere |
 | Turning pages while editing | Swipe quickly with one finger |
 | Right-click | Long press, anywhere in the app |
-| Full screen | F11 or the icon in the toolbar |
+| More space | Volti opens maximised. To hide the taskbar too, turn on “Automatically hide the taskbar” in Windows |
 | Quick guide | ⚙ → *Quick guide* |
 
 ## Your data

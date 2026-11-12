@@ -86,7 +86,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 | Werkzeug-Einstellungen | Jedes Werkzeug hat ein eigenes Fenster, das sich frei verschieben lässt |
 | Blättern beim Bearbeiten | Mit einem Finger zügig wischen |
 | Rechtsklick | Lange drücken, überall in der App |
-| Vollbild | F11 oder das Symbol in der Leiste |
+| Mehr Platz | Volti öffnet maximiert. Wer auch die Taskleiste nicht sehen will: in Windows „Taskleiste automatisch ausblenden“ einschalten |
 | Kurzanleitung | ⚙ → *Kurzanleitung* |
 
 ## Deine Daten
