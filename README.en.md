@@ -60,7 +60,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **Fingers never draw.** Your hand can rest on the screen while you write.
 - **Text notes** with three fonts, colours and background. Inside a note you can make single words bold, italic, underlined or coloured.
 - **Stamps** with more than a hundred music symbols in groups (dynamics, articulation, strings, winds, keys, guitar …), plus **your own stamps** from images.
-- **Shapes**: line, arrow, rectangle, ellipse, crescendo, decrescendo, slur and staff lines.
+- **Shapes**: line, arrow, rectangle and ellipse (also filled, e.g. white to cover things up), crescendo/decrescendo, slur and staff lines.
 - **Ruler** for straight lines, moved and rotated with your fingers.
 - **Lasso** to move, resize, copy and recolour, plus a **move tool**.
 - **Copy bars**: cut out bars including your notes and paste them elsewhere, even into another piece.
@@ -74,7 +74,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **Share or print as PDF**, with all your notes if you like, even a whole setlist in one file.
 
 ### Sync and backup
-- **Sync** between your devices: directly via **Dropbox** or **Google Drive**, or through a folder that a cloud program keeps in sync (e.g. Proton Drive). Notes from two devices are merged, never overwritten.
+- **Sync** between your devices: directly via **Dropbox**, or through a folder that a cloud program keeps in sync (e.g. Proton Drive). Notes from two devices are merged, never overwritten.
 - **Automatic backup** every week, plus manual backups. Restoring a backup never deletes anything.
 
 ## Tips

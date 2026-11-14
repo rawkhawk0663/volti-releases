@@ -60,7 +60,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Mit dem Finger wird nie gezeichnet.** Die Hand darf beim Schreiben aufliegen.
 - **Text-Notizen** mit drei Schriften, Farben und Hintergrund. Innerhalb einer Notiz kannst du einzelne Wörter fett, kursiv, unterstrichen oder farbig machen.
 - **Stempel** mit über hundert Musiksymbolen in Gruppen (Dynamik, Artikulation, Streicher, Bläser, Tasten, Gitarre …) sowie **eigene Stempel** aus Bildern.
-- **Formen**: Linie, Pfeil, Rechteck, Ellipse, Crescendo, Decrescendo, Bogen und Notenlinien.
+- **Formen**: Linie, Pfeil, Rechteck und Ellipse (auch gefüllt, z. B. weiss zum Abdecken), Crescendo/Decrescendo, Bogen und Notenlinien.
 - **Lineal** für gerade Linien, mit den Fingern verschieben und drehen.
 - **Auswählen (Lasso)** zum Verschieben, Vergrössern, Kopieren und Umfärben, sowie ein **Verschieben-Werkzeug**.
 - **Takte kopieren**: Takte samt Notizen ausschneiden und an anderer Stelle einfügen, auch in einem anderen Stück.
@@ -74,7 +74,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Als PDF teilen oder drucken**, auf Wunsch mit allen Notizen, auch eine ganze Setlist in einer Datei.
 
 ### Abgleichen und sichern
-- **Sync** zwischen deinen Geräten: direkt über **Dropbox** oder **Google Drive**, oder über einen Ordner, den ein Cloud-Programm abgleicht (z. B. Proton Drive). Notizen von zwei Geräten werden zusammengeführt, nie überschrieben.
+- **Sync** zwischen deinen Geräten: direkt über **Dropbox** oder über einen Ordner, den ein Cloud-Programm abgleicht (z. B. Proton Drive). Notizen von zwei Geräten werden zusammengeführt, nie überschrieben.
 - **Automatische Sicherung** jede Woche, dazu Sicherungen von Hand. Beim Einspielen einer Sicherung wird nichts gelöscht.
 
 ## Tipps zur Bedienung
