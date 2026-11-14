@@ -41,7 +41,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 ### Setlists
 - Put together the songs for a service, rehearsal or concert, and drag them into order.
 - While playing, a setlist behaves like **one single book**: after the last page of a song, the next song follows right away.
-- **Note sheets**: blank pages inside the setlist, e.g. for the running order and cues.
+- **Note sheets** inside the setlist, e.g. for the running order and cues: blank or with a template (staff paper, tablature, staff + tab, chord boxes, lined).
 - **Notes for this setlist only**: layers you create inside a setlist appear only there. Notes from the library appear everywhere.
 - Folders and search for setlists.
 
@@ -53,7 +53,9 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **Jump links** for repeats, D.S. and coda: tap and Volti jumps there.
 - **Bookmarks**, also for a range of pages, e.g. one song in a songbook.
 - **Continuous scroll**: the staves are lined up across the full width so you can scroll through them.
+- **Page strip** at the bottom, like a dock: every page as a small picture, tap to jump there. Plus a **page overview** of all pages, song by song in a setlist.
 - **Metronome** with a pleasant click. It picks up the tempo and time signature of every song.
+- **Tuner** (using the microphone) and **pitch pipe** for giving the note, with adjustable concert pitch.
 
 ### Writing with the pen
 - **Pen, highlighter and eraser**, including the eraser end of the Surface Pen. The highlighter always stays beneath the notes.
@@ -65,7 +67,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **Lasso** to move, resize, copy and recolour, plus a **move tool**.
 - **Copy bars**: cut out bars including your notes and paste them elsewhere, even into another piece.
 - **Layers and groups**, e.g. separate ones for fingerings and rehearsal notes, each of which you can show or hide.
-- **Blank pages** inside a piece.
+- **Blank pages** inside a piece, optionally with staff lines, tablature or chord boxes.
 - **Favourites** for your preferred pen settings.
 - Everything can be **undone**.
 

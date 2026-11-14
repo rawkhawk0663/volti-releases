@@ -41,7 +41,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 ### Setlists
 - Songs für einen Gottesdienst, eine Probe oder ein Konzert zusammenstellen und per Ziehen sortieren.
 - Beim Spielen verhält sich eine Setlist wie **ein einziges Heft**: Nach der letzten Seite eines Songs kommt direkt der nächste.
-- **Notizblätter**: leere Seiten in der Setlist, zum Beispiel für Ablauf und Absprachen.
+- **Notizblätter** in der Setlist, zum Beispiel für Ablauf und Absprachen: leer oder mit Vorlage (Notenlinien, Tabulatur, Noten + Tabulatur, Akkord-Kästchen, liniert).
 - **Notizen nur für diese Setlist**: Ebenen, die du in einer Setlist anlegst, erscheinen nur dort. Notizen aus der Bibliothek erscheinen überall.
 - Ordner und Suche für Setlists.
 
@@ -53,7 +53,9 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Sprungmarken** für Wiederholungen, D.S. und Coda: antippen, und Volti springt hin.
 - **Lesezeichen**, auch für einen Seitenbereich, zum Beispiel ein Lied in einem Sammelband.
 - **Endlosband**: Die Notenzeilen erscheinen untereinander über die ganze Breite und lassen sich durchscrollen.
+- **Bildleiste** unten wie ein Dock: alle Seiten als kleine Bilder, antippen springt hin. Dazu eine **Seitenübersicht** über alle Seiten, in einer Setlist Song für Song.
 - **Metronom** mit angenehmem Klang. Es übernimmt das Tempo und die Taktart jedes Songs.
+- **Stimmgerät** (über das Mikrofon) und **Stimmton** zum Anstimmen, mit einstellbarem Kammerton.
 
 ### Schreiben mit dem Stift
 - **Stift, Leuchtstift und Radierer**, auch mit dem Radierer-Ende des Surface Pen. Der Leuchtstift liegt immer unter den Noten.
@@ -65,7 +67,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Auswählen (Lasso)** zum Verschieben, Vergrössern, Kopieren und Umfärben, sowie ein **Verschieben-Werkzeug**.
 - **Takte kopieren**: Takte samt Notizen ausschneiden und an anderer Stelle einfügen, auch in einem anderen Stück.
 - **Ebenen und Gruppen**, zum Beispiel getrennt für Fingersätze und Probennotizen, jeweils einzeln ein- und ausblendbar.
-- **Leere Seiten** in ein Stück einfügen.
+- **Leere Seiten** in ein Stück einfügen, auf Wunsch mit Notenlinien, Tabulatur oder Akkord-Kästchen.
 - **Favoriten** für deine liebsten Stift-Einstellungen.
 - Alles lässt sich **rückgängig** machen.
 
