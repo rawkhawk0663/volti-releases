@@ -74,7 +74,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **Share or print as PDF**, with all your notes if you like, even a whole setlist in one file.
 
 ### Sync and backup
-- **Sync** between your devices through a folder, e.g. in Proton Drive, OneDrive or Dropbox. Notes from two devices are merged, never overwritten.
+- **Sync** between your devices: directly via **Dropbox** or **Google Drive**, or through a folder that a cloud program keeps in sync (e.g. Proton Drive). Notes from two devices are merged, never overwritten.
 - **Automatic backup** every week, plus manual backups. Restoring a backup never deletes anything.
 
 ## Tips

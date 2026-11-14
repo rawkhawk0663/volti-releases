@@ -74,7 +74,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Als PDF teilen oder drucken**, auf Wunsch mit allen Notizen, auch eine ganze Setlist in einer Datei.
 
 ### Abgleichen und sichern
-- **Sync** zwischen deinen Geräten über einen Ordner, zum Beispiel in Proton Drive, OneDrive oder Dropbox. Notizen von zwei Geräten werden zusammengeführt, nie überschrieben.
+- **Sync** zwischen deinen Geräten: direkt über **Dropbox** oder **Google Drive**, oder über einen Ordner, den ein Cloud-Programm abgleicht (z. B. Proton Drive). Notizen von zwei Geräten werden zusammengeführt, nie überschrieben.
 - **Automatische Sicherung** jede Woche, dazu Sicherungen von Hand. Beim Einspielen einer Sicherung wird nichts gelöscht.
 
 ## Tipps zur Bedienung
