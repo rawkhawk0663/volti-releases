@@ -50,6 +50,8 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Stücke direkt aus der Bibliothek.** Was du in diesen Noten notierst, gilt nur für diese Schülerin oder diesen Schüler.
 - **Hausaufgaben senden** per E-Mail, WhatsApp oder als PDF mit den Noten samt deinen Notizen.
 - **Absenzenkontrolle** pro Schüler:in als Tabelle über das ganze Semester, mit Note.
+- **Geburtstag und Klasse** (P1–P6, Oberstufe R/S/B), die Klasse steigt jeden Sommer von selbst. Volti erinnert an Geburtstage.
+- **Pensum**: Der Stundenplan zeigt, wie viele Schullektionen du unterrichtest und welches Pensum das ergibt.
 - **Stundenplan** nach Wochentagen, auch als PDF. Ferien und Feiertage trägst du einmal zentral ein.
 
 ### Spielen
