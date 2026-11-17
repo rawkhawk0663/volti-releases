@@ -49,7 +49,8 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **One record per student**: lesson and homework, past lessons, absences and free notes. Everything is saved automatically.
 - **Pieces straight from the library.** What you write in that music applies only to this student.
 - **Send homework** by email, WhatsApp or as a PDF of the music including your notes.
-- **Timetable** by weekday, also as PDF.
+- **Attendance table** per student across the whole term, with a grade.
+- **Timetable** by weekday, also as PDF. Holidays are entered once for everyone.
 
 ### Playing
 - **Turn pages** by tapping the right or left edge, by swiping, with a pedal (Bluetooth, e.g. iRig BlueTurn), with the arrow keys or the space bar.

@@ -49,7 +49,8 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Eine Kartei pro Schüler:in**: Lektion und Hausaufgaben, vergangene Lektionen, Absenzen und freie Notizen. Alles wird von selbst gespeichert.
 - **Stücke direkt aus der Bibliothek.** Was du in diesen Noten notierst, gilt nur für diese Schülerin oder diesen Schüler.
 - **Hausaufgaben senden** per E-Mail, WhatsApp oder als PDF mit den Noten samt deinen Notizen.
-- **Stundenplan** nach Wochentagen, auch als PDF.
+- **Absenzenkontrolle** pro Schüler:in als Tabelle über das ganze Semester, mit Note.
+- **Stundenplan** nach Wochentagen, auch als PDF. Ferien und Feiertage trägst du einmal zentral ein.
 
 ### Spielen
 - **Umblättern** durch Antippen am rechten oder linken Rand, durch Wischen, mit Pedal (Bluetooth, z. B. iRig BlueTurn), mit den Pfeiltasten oder der Leertaste.
