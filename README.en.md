@@ -46,7 +46,10 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - Folders and search for setlists.
 
 ### Teaching (for teachers, switch on under ⚙)
+- **Overview of the day**: who has a lesson when today (now, next), tomorrow, birthdays and open to-dos.
 - **One record per student**: lesson and homework, past lessons, absences and free notes. Everything is saved automatically.
+- **Groups**: create students individually and combine them into a group. They then share one record, attendance stays per person.
+- **To-dos** in general or on a record, with a due date. Overdue ones are red.
 - **Pieces straight from the library.** What you write in that music applies only to this student.
 - **Send homework** by email, WhatsApp or as a PDF of the music including your notes.
 - **Attendance table** per student across the whole term, with a grade.
