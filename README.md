@@ -46,13 +46,13 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - Ordner und Suche für Setlists.
 
 ### Unterricht (für Lehrpersonen, unter ⚙ einschaltbar)
-- **Übersicht über den Tag**: wer heute wann dran ist (jetzt, als Nächstes), morgen, Geburtstage und offene To-Dos.
+- **Übersicht über den Tag**: Zeitleiste von heute, nächste Lektion, offene To-Dos, Geburtstage und Tipps.
 - **Eine Kartei pro Schüler:in**: Lektion und Hausaufgaben, vergangene Lektionen, Absenzen und freie Notizen. Alles wird von selbst gespeichert.
 - **Gruppen**: Mehrere Schüler:innen einzeln anlegen und zu einer Gruppe zusammenfassen. Dann gibt es eine gemeinsame Kartei, Absenzen bleiben pro Person.
 - **To-Dos** allgemein oder bei einer Kartei, mit Termin. Überfällige sind rot.
 - **Stücke direkt aus der Bibliothek.** Was du in diesen Noten notierst, gilt nur für diese Schülerin oder diesen Schüler.
 - **Hausaufgaben senden** per E-Mail, WhatsApp oder als PDF mit den Noten samt deinen Notizen.
-- **Absenzenkontrolle** pro Schüler:in als Tabelle über das ganze Semester, mit Note.
+- **Absenzenkontrolle** pro Schüler:in als Tabelle über das ganze Semester, mit Note. Absenzen und Ausfälle mit Grund, farbig markiert. **Absenzenliste als PDF** mit Kalenderwochen und Daten.
 - **Geburtstag und Klasse** (P1–P6, Oberstufe R/S/B), die Klasse steigt jeden Sommer von selbst. Volti erinnert an Geburtstage.
 - **Pensum**: Der Stundenplan zeigt, wie viele Schullektionen du unterrichtest und welches Pensum das ergibt.
 - **Stundenplan** nach Wochentagen, auch als PDF. Ferien und Feiertage trägst du einmal zentral ein.

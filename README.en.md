@@ -46,13 +46,13 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - Folders and search for setlists.
 
 ### Teaching (for teachers, switch on under ⚙)
-- **Overview of the day**: who has a lesson when today (now, next), tomorrow, birthdays and open to-dos.
+- **Overview of the day**: today's timeline, next lesson, open to-dos, birthdays and tips.
 - **One record per student**: lesson and homework, past lessons, absences and free notes. Everything is saved automatically.
 - **Groups**: create students individually and combine them into a group. They then share one record, attendance stays per person.
 - **To-dos** in general or on a record, with a due date. Overdue ones are red.
 - **Pieces straight from the library.** What you write in that music applies only to this student.
 - **Send homework** by email, WhatsApp or as a PDF of the music including your notes.
-- **Attendance table** per student across the whole term, with a grade.
+- **Attendance table** per student across the whole term, with a grade. Absences and cancellations with a reason, colour-coded. **Attendance list as PDF** with calendar weeks and dates.
 - **Birthday and school class** (P1–P6, upper school R/S/B); the class goes up by itself every summer. Volti reminds you of birthdays.
 - **Workload**: the timetable shows how many school lessons you teach and what workload that is.
 - **Timetable** by weekday, also as PDF. Holidays are entered once for everyone.
