@@ -59,7 +59,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **Jump links** for repeats, D.S. and coda: tap and Volti jumps there.
 - **Bookmarks**, also for a range of pages, e.g. one song in a songbook.
 - **Continuous scroll**: the staves are lined up across the full width so you can scroll through them.
-- **Page strip** at the bottom, like a dock: every page as a small picture, tap to jump there. Plus a **page overview** of all pages, song by song in a setlist.
+- **Page strip** floating at the bottom centre: every page as a small picture, tap to jump there. Plus a **page overview** of all pages, song by song in a setlist.
 - **Metronome** with a pleasant click. It picks up the tempo and time signature of every song.
 - **Tuner** (using the microphone) and **pitch pipe** for giving the note, with adjustable concert pitch.
 

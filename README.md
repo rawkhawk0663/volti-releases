@@ -59,7 +59,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Sprungmarken** für Wiederholungen, D.S. und Coda: antippen, und Volti springt hin.
 - **Lesezeichen**, auch für einen Seitenbereich, zum Beispiel ein Lied in einem Sammelband.
 - **Endlosband**: Die Notenzeilen erscheinen untereinander über die ganze Breite und lassen sich durchscrollen.
-- **Bildleiste** unten wie ein Dock: alle Seiten als kleine Bilder, antippen springt hin. Dazu eine **Seitenübersicht** über alle Seiten, in einer Setlist Song für Song.
+- **Bildleiste** unten, schwebend in der Mitte: alle Seiten als kleine Bilder, antippen springt hin. Dazu eine **Seitenübersicht** über alle Seiten, in einer Setlist Song für Song.
 - **Metronom** mit angenehmem Klang. Es übernimmt das Tempo und die Taktart jedes Songs.
 - **Stimmgerät** (über das Mikrofon) und **Stimmton** zum Anstimmen, mit einstellbarem Kammerton.
 
