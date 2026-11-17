@@ -45,6 +45,12 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Notizen nur für diese Setlist**: Ebenen, die du in einer Setlist anlegst, erscheinen nur dort. Notizen aus der Bibliothek erscheinen überall.
 - Ordner und Suche für Setlists.
 
+### Unterricht (für Lehrpersonen, unter ⚙ einschaltbar)
+- **Eine Kartei pro Schüler:in**: Lektion und Hausaufgaben, vergangene Lektionen, Absenzen und freie Notizen. Alles wird von selbst gespeichert.
+- **Stücke direkt aus der Bibliothek.** Was du in diesen Noten notierst, gilt nur für diese Schülerin oder diesen Schüler.
+- **Hausaufgaben senden** per E-Mail, WhatsApp oder als PDF mit den Noten samt deinen Notizen.
+- **Stundenplan** nach Wochentagen, auch als PDF.
+
 ### Spielen
 - **Umblättern** durch Antippen am rechten oder linken Rand, durch Wischen, mit Pedal (Bluetooth, z. B. iRig BlueTurn), mit den Pfeiltasten oder der Leertaste.
 - **Zwei Seiten nebeneinander** im Querformat. Jedes Umblättern geht genau eine Seite weiter, so siehst du jeden Übergang.

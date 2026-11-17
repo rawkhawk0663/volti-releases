@@ -45,6 +45,12 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **Notes for this setlist only**: layers you create inside a setlist appear only there. Notes from the library appear everywhere.
 - Folders and search for setlists.
 
+### Teaching (for teachers, switch on under ⚙)
+- **One record per student**: lesson and homework, past lessons, absences and free notes. Everything is saved automatically.
+- **Pieces straight from the library.** What you write in that music applies only to this student.
+- **Send homework** by email, WhatsApp or as a PDF of the music including your notes.
+- **Timetable** by weekday, also as PDF.
+
 ### Playing
 - **Turn pages** by tapping the right or left edge, by swiping, with a pedal (Bluetooth, e.g. iRig BlueTurn), with the arrow keys or the space bar.
 - **Two pages side by side** in landscape. Each turn moves exactly one page, so you always see every transition.
