@@ -48,6 +48,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 ### Teaching (for teachers, switch on under ⚙)
 - **Overview of the day**: today's timeline, next lesson, open to-dos, birthdays and tips.
 - **One record per student**: lesson and homework, past lessons, absences and free notes. Everything is saved automatically.
+- **Format text**: bold, italic, colours, highlighting, lists, links and emojis in lessons, homework and notes.
 - **Groups**: create students individually and combine them into a group. They then share one record, attendance stays per person.
 - **To-dos** in general or on a record, with a due date. Overdue ones are red.
 - **Pieces straight from the library.** What you write in that music applies only to this student.

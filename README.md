@@ -48,6 +48,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 ### Unterricht (für Lehrpersonen, unter ⚙ einschaltbar)
 - **Übersicht über den Tag**: Zeitleiste von heute, nächste Lektion, offene To-Dos, Geburtstage und Tipps.
 - **Eine Kartei pro Schüler:in**: Lektion und Hausaufgaben, vergangene Lektionen, Absenzen und freie Notizen. Alles wird von selbst gespeichert.
+- **Text formatieren**: fett, kursiv, Farben, Hervorheben, Listen, Links und Emojis in Lektion, Hausaufgaben und Notizen.
 - **Gruppen**: Mehrere Schüler:innen einzeln anlegen und zu einer Gruppe zusammenfassen. Dann gibt es eine gemeinsame Kartei, Absenzen bleiben pro Person.
 - **To-Dos** allgemein oder bei einer Kartei, mit Termin. Überfällige sind rot.
 - **Stücke direkt aus der Bibliothek.** Was du in diesen Noten notierst, gilt nur für diese Schülerin oder diesen Schüler.
