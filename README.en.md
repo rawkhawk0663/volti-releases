@@ -12,9 +12,9 @@ Read your sheet music, turn pages with a pedal and write on it with a pen.</p>
 
 ---
 
-Volti is a sheet music reader for musicians, made for the **Surface with pen** on Windows. It also works on any Windows device with mouse and keyboard. An Android version is in the works.
+Volti is a sheet music reader for musicians, made for the **Surface with pen** on Windows. It also works on any Windows device with mouse and keyboard. Volti also runs on Android tablets.
 
-Volti is available in **English and German** (⚙ → *Appearance* → *Sprache · Language*). Volti needs **no account**, collects **no data** and works **offline**. The only time Volti goes online is to look for updates.
+Volti is available in **English and German** (⚙ → *Appearance* → *Sprache · Language*). Volti needs **no account**, collects **no data** and works **offline**. Volti only goes online to look for updates and to sync with your own Dropbox.
 
 ## Installation (Windows 10 and 11)
 
@@ -28,6 +28,12 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 **Without installing:** download `Volti-Windows.zip` instead, unzip it into a folder and run `Volti.exe`.
 
 **Updates:** Volti checks for new versions on its own when it starts. Under ⚙ → *About Volti* → *Check for updates* you install them with one tap, and Volti then restarts.
+
+## Installation (Android)
+
+Download **`Volti-Android.apk`** from the [latest version](https://github.com/rawkhawk0663/volti-releases/releases/latest) and open it.
+
+- **Automatic updates:** in the [Obtainium](https://github.com/ImranR98/Obtainium) app choose “Add app” and enter `https://github.com/rawkhawk0663/volti-releases`. Obtainium notifies you about and installs every new version.
 
 ## Features
 
@@ -89,7 +95,7 @@ Installing doesn't need administrator rights. Uninstall it from the Windows sett
 - **Share or print as PDF**, with all your notes if you like, even a whole setlist in one file.
 
 ### Sync and backup
-- **Sync** between your devices: directly via **Dropbox**, or through a folder that a cloud program keeps in sync (e.g. Proton Drive). Notes from two devices are merged, never overwritten.
+- **Sync** between your devices: directly via **Dropbox** (on the computer and on Android), or through a folder that a cloud program keeps in sync (e.g. Proton Drive). Notes from two devices are merged, never overwritten.
 - **Automatic backup** every week, plus manual backups. Restoring a backup never deletes anything.
 
 ## Tips

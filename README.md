@@ -12,9 +12,9 @@ Noten lesen, mit dem Pedal umblättern und mit dem Stift hineinschreiben.</p>
 
 ---
 
-Volti ist ein Notenleser für Musikerinnen und Musiker, gemacht für das **Surface mit Stift** unter Windows. Er funktioniert aber auf jedem Windows-Gerät mit Maus und Tastatur. Eine Android-Version ist in Arbeit.
+Volti ist ein Notenleser für Musikerinnen und Musiker, gemacht für das **Surface mit Stift** unter Windows. Er funktioniert aber auf jedem Windows-Gerät mit Maus und Tastatur. Auf Android-Tablets läuft Volti auch.
 
-Volti gibt es auf **Deutsch und Englisch** (⚙ → *Darstellung* → *Sprache · Language*). Volti braucht **kein Konto**, sammelt **keine Daten** und funktioniert **ohne Internet**. Volti verbindet sich nur mit dem Internet, um nach Updates zu suchen.
+Volti gibt es auf **Deutsch und Englisch** (⚙ → *Darstellung* → *Sprache · Language*). Volti braucht **kein Konto**, sammelt **keine Daten** und funktioniert **ohne Internet**. Volti verbindet sich nur mit dem Internet, um nach Updates zu suchen und um mit deiner eigenen Dropbox abzugleichen.
 
 ## Installieren (Windows 10 und 11)
 
@@ -28,6 +28,12 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 **Ohne Installation:** Lade stattdessen `Volti-Windows.zip` herunter, entpacke die Datei in einen Ordner und starte `Volti.exe`.
 
 **Updates:** Volti sucht beim Start selbst nach neuen Versionen. Unter ⚙ → *Über Volti* → *Nach Updates suchen* installierst du sie mit einem Tippen, und Volti startet danach neu.
+
+## Installieren (Android)
+
+Lade **`Volti-Android.apk`** aus der [neuesten Version](https://github.com/rawkhawk0663/volti-releases/releases/latest) herunter und öffne die Datei.
+
+- **Automatische Updates:** In der App [Obtainium](https://github.com/ImranR98/Obtainium) „App hinzufügen“ wählen und `https://github.com/rawkhawk0663/volti-releases` eintragen. Obtainium meldet und installiert jede neue Version.
 
 ## Was Volti kann
 
@@ -89,7 +95,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Als PDF teilen oder drucken**, auf Wunsch mit allen Notizen, auch eine ganze Setlist in einer Datei.
 
 ### Abgleichen und sichern
-- **Sync** zwischen deinen Geräten: direkt über **Dropbox** oder über einen Ordner, den ein Cloud-Programm abgleicht (z. B. Proton Drive). Notizen von zwei Geräten werden zusammengeführt, nie überschrieben.
+- **Sync** zwischen deinen Geräten: direkt über **Dropbox** (am Computer und auf Android) oder über einen Ordner, den ein Cloud-Programm abgleicht (z. B. Proton Drive). Notizen von zwei Geräten werden zusammengeführt, nie überschrieben.
 - **Automatische Sicherung** jede Woche, dazu Sicherungen von Hand. Beim Einspielen einer Sicherung wird nichts gelöscht.
 
 ## Tipps zur Bedienung
